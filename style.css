@@ -1,0 +1,30 @@
+
+
+
+.top-stoplight{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
+
+.red-light{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.yellow-light{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.green-light{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    text-shadow: 50%;
+}
